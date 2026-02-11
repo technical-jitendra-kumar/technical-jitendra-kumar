@@ -30,7 +30,7 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nextjs,angular,tailwind,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,angular,tailwind,bootstrap,materialui" />
 </p>
 
 ### ⚙ Backend
@@ -47,34 +47,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
 </p>
-
----
-
-<!-- ==================== EXPERIENCE ==================== -->
-
-## 💼 Experience
-
-### 🏢 Full Stack Developer — DigiDonar Pvt. Ltd.  
-📅 Nov 2025 – Present  
-- Developed scalable MERN applications  
-- Built RESTful APIs & optimized backend performance  
-- Designed responsive UI with Tailwind & React  
-- Worked in Agile development environment  
-
----
-
-### 🏢 Fullstack Engineer — Eduskill AICTE  
-📅 July 2023 – March 2024  
-- Delivered high-performance full-stack web applications  
-- Integrated frontend & backend systems  
-- Improved user experience & UI responsiveness  
-
----
-
-### 🏢 Frontend Intern — Indolike Technologies  
-📅 Sept 2021 – Aug 2022  
-- Built responsive UI components  
-- Converted Figma designs into interactive web pages  
 
 ---
 
@@ -130,21 +102,26 @@ Productivity Chrome extension for task management.
 
 <p align="center">
 <a href="https://linkedin.com/in/technicaljitendra">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/jitendra_technical_">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://www.youtube.com/c/technicaljitendra">
-<img src="https://skillicons.dev/icons?i=youtube" height="40" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
 <a href="https://www.hackerrank.com/@jitendrakumarkk1">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
 <a href="https://www.leetcode.com/technical_jitendra">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+<img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
+
 
 ---
 
