@@ -17,10 +17,10 @@
 ⚡ Specialized in **MERN Stack & Modern Frontend Technologies**  
 🎯 Passionate about clean architecture, UI precision & performance optimization.  
 
-- 🔭 Currently Working On: **Weather App**
+- 🔭 Currently Working On: **Dataprenure (Institute full stack CRM Based Project )**
 - 🌱 Learning: **Machine Learning & Advanced Backend Systems**
 - 👯 Open to Collaborate: **Full Stack & AI-Based Projects**
-- 📫 Reach me at: **jitendrakumarjjk10@gmail.com**
+- 📫 Reach me at: **jitendrak.codes@gmail.com**
 
 ---
 
