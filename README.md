@@ -161,27 +161,39 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technical-jitendra-kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technical-jitendra-kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=technical-jitendra-kumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=technical-jitendra-kumar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=technical-jitendra-kumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7F00FF&currStreakLabel=00F7FF" />
+  <img
+    src="https://streak-stats.demolab.com?user=technical-jitendra-kumar&theme=tokyonight&hide_border=true&background=0D1117"
+    width="70%"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=technical-jitendra-kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=technical-jitendra-kumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    width="85%"
+  />
 </p>
 
 ---
