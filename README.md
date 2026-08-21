@@ -181,8 +181,6 @@ Chrome productivity extension designed for task management and reminders.
  <img src="https://raw.githubusercontent.com/technical-jitendra-kumar/technical-jitendra-kumar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> **Note:** The snake animation needs a one-time GitHub Actions workflow set up in your profile repo (`technical-jitendra-kumar/technical-jitendra-kumar`) to generate the `output` branch. If it's not showing, see the setup note at the bottom of this file.
-
 ---
 
 ## Connect With Me
