@@ -1,7 +1,5 @@
 <!-- ========================= -->
-
 <!--        ANIMATED HEADER     -->
-
 <!-- ========================= -->
 
 <p align="center">
@@ -9,9 +7,7 @@
 </p>
 
 <!-- ========================= -->
-
 <!--          INTRO             -->
-
 <!-- ========================= -->
 
 <h1 align="center">
@@ -37,131 +33,104 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Full Stack Developer and Founder** passionate about building scalable web applications, SaaS platforms and digital products.
 
 With **2+ years of hands-on development experience**, I work across the complete product lifecycle — from architecture and UI/UX to backend APIs, databases, deployment and optimization.
 
-* 🚀 **Founder:** Appnix Technologies
-* 💻 **Specialization:** MERN Stack & Next.js
-* 🏗️ **Currently Building:** SaaS products, CRM systems & scalable web applications
-* 🔭 **Current Project:** Dataprenure — Institute Full Stack CRM Platform
-* 🌱 **Currently Exploring:** Advanced Backend Systems, AI/ML & System Design
-* 🤝 **Open to:** SaaS, Full Stack, AI & Product Development collaborations
-* 🎯 **Focus:** Scalable Architecture • Clean Code • Performance • Product Thinking
-* 📫 **Email:** [jitendrak.codes@gmail.com](mailto:jitendrak.codes@gmail.com)
+- 🚀 **Founder:** Appnix Technologies
+- 💻 **Specialization:** MERN Stack & Next.js
+- 🏗️ **Currently Building:** SaaS products, CRM systems & scalable web applications
+- 🔭 **Current Project:** Dataprenure — Institute Full Stack CRM Platform
+- 🌱 **Currently Exploring:** Advanced Backend Systems, AI/ML & System Design
+- 🤝 **Open to:** SaaS, Full Stack, AI & Product Development collaborations
+- 🎯 **Focus:** Scalable Architecture • Clean Code • Performance • Product Thinking
+- 📫 **Email:** [jitendrak.codes@gmail.com](mailto:jitendrak.codes@gmail.com)
 
 ---
 
-# 🚀 What I Build
+## 🚀 What I Build
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   🌐 Modern Web Applications                             │
-│   ⚡ High-Performance SaaS Platforms                    │
-│   📊 CRM & Business Management Systems                   │
-│   🔐 Authentication & Role-Based Systems                 │
-│   🔌 REST APIs & Backend Architectures                  │
-│   💳 Payment & Subscription Systems                      │
-│   📱 Responsive & Modern UI                              │
-│   ☁️ Deployment & Production Infrastructure              │
-│                                                          │
+│                                                            │
+│   🌐 Modern Web Applications                              │
+│   ⚡ High-Performance SaaS Platforms                       │
+│   📊 CRM & Business Management Systems                    │
+│   🔐 Authentication & Role-Based Systems                  │
+│   🔌 REST APIs & Backend Architectures                    │
+│   💳 Payment & Subscription Systems                       │
+│   📱 Responsive & Modern UI                                │
+│   ☁️  Deployment & Production Infrastructure                │
+│                                                            │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
 </p>
 
 ### ⚙️ Backend & APIs
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,mongodb,mysql,postgres,firebase" />
 </p>
 
 ### 💻 Programming Languages
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,ts,js" />
 </p>
 
 ### ☁️ DevOps & Tools
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,figma,linux" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏢 Appnix SaaS / CRM
-
-A scalable multi-tenant CRM ecosystem designed for businesses to manage leads, customers, teams and subscriptions.
-
-**Core Features**
-
-* 🔐 Authentication & Role-Based Access
-* 👥 Lead & Customer Management
-* 📱 WhatsApp Integration
-* 💳 Subscription Management
-* 🏢 Multi-Tenant Architecture
-* 📊 Business Analytics
-* ⚡ REST API Architecture
-
-**Stack:** `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
----
-
-## 🎓 Dataprenure — Institute CRM
-
+### 🎓 Dataprenure — Institute CRM
 Full-stack CRM platform designed for educational institutes to manage their complete operational workflow.
 
 **Stack:** `Next.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🔎 GitHub Profile Detective
-
+### 🔎 GitHub Profile Detective
 A React-based application that fetches GitHub API data and converts developer profiles into useful visual analytics.
 
 **Stack:** `React.js` `JavaScript` `GitHub API`
 
 ---
 
-## 📘 CS Prep — GATE Platform
-
+### 📘 CS Prep — GATE Platform
 Full-stack competitive exam preparation platform featuring quizzes, analytics and structured learning workflows.
 
 **Stack:** `MERN Stack`
 
 ---
 
-## 🎓 Coding Master
-
+### 🎓 Coding Master
 Ed-tech platform with blogs, learning content and payment integration.
 
 **Stack:** `MERN Stack`
 
 ---
 
-## ⏰ Task Reminder Extension
-
+### ⏰ Task Reminder Extension
 Chrome productivity extension designed for task management and reminders.
 
 **Stack:** `JavaScript` `Chrome Extension API`
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -176,7 +145,7 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-## Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -187,7 +156,7 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img
@@ -198,7 +167,7 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=technical-jitendra-kumar&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
@@ -206,15 +175,17 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/technical-jitendra-kumar/technical-jitendra-kumar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+> ⚠️ **Note:** The snake animation needs a one-time GitHub Actions workflow set up in your profile repo (`technical-jitendra-kumar/technical-jitendra-kumar`) to generate the `output` branch. If it's not showing, see the setup note at the bottom of this file.
+
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -242,12 +213,10 @@ Chrome productivity extension designed for task management and reminders.
 
 ---
 
-# 💡 Developer Philosophy
+## 💡 Developer Philosophy
 
 <p align="center">
-
-> <b>"Don't just write code. Build systems that solve real problems."</b>
-
+<b>"Don't just write code. Build systems that solve real problems."</b>
 </p>
 
 <p align="center">
@@ -257,9 +226,7 @@ Chrome productivity extension designed for task management and reminders.
 ---
 
 <!-- ========================= -->
-
 <!--       ANIMATED FOOTER      -->
-
 <!-- ========================= -->
 
 <p align="center">
